@@ -43,7 +43,7 @@ Working on this project helped me understand Tailwind CSS much better. I learned
 ## 📸 Screenshots
 
 ### 💻 Desktop View  
-📄 [Web view](Images/web_interface.pdf)
+📄 [Web view](Images/Web-interface.pdf)
 
 ### 📱 Mobile View  
 ![Mobile View](Images/mobile_interface.pdf)
