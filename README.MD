@@ -36,10 +36,10 @@ Working on this project helped me understand Tailwind CSS much better. I learned
 ## 📸 Screenshots
 
 ### 💻 Desktop View  
-📄 [Click here to view the Web Interface (PDF)](images/web_interface.pdf)
+📄 [Click here to view the Web Interface (PDF)](Images/web_interface.pdf)
 
 ### 📱 Mobile View  
-![Mobile View](images/screenshot-mobile.png)
+![Mobile View](Images/mobile_interface.pdf)
 
 ---
 
