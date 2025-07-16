@@ -19,10 +19,7 @@ Hey! 👋 This is my personal portfolio website that I built as part of a Tailwi
 
 - HTML5
 - Tailwind CSS 
-- Font-based icons (GitHub, LinkedIn, Favicon, project and profile picture)
-
----
----
+- Font-based icons (GitHub, LinkedIn, Favicon,   project and profile picture)
 
 ---
 
@@ -31,7 +28,7 @@ Hey! 👋 This is my personal portfolio website that I built as part of a Tailwi
 You can view the full source code and project structure here:  
 👉 [GitHub Repository - Portfolio-Divyansh](https://github.com/Divyansh-soni797/Portfolio-Divyansh)
 
-
+---
 
 ## 📁 Folder Structure
 
@@ -54,4 +51,4 @@ Working on this project helped me understand Tailwind CSS much better. I learned
 ---
 
 Thanks for checking it out! 😊  
-Made with ❤️ by **Divyansh Soni**
+Made by **Divyansh Soni**
