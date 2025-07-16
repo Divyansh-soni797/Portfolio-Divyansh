@@ -22,6 +22,16 @@ Hey! 👋 This is my personal portfolio website that I built as part of a Tailwi
 - Font-based icons (GitHub, LinkedIn, Favicon, project and profile picture)
 
 ---
+---
+
+---
+
+## 🔗 Live Project Code
+
+You can view the full source code and project structure here:  
+👉 [GitHub Repository - Portfolio-Divyansh](https://github.com/Divyansh-soni797/Portfolio-Divyansh)
+
+
 
 ## 📁 Folder Structure
 
