@@ -30,6 +30,16 @@ You can view the full source code and project structure here:
 
 ---
 
+## 🔗 Live Website
+
+🚀 **Deployed on GitHub Pages**  
+👉 [Click here to visit my live portfolio site](https://divyansh-soni797.github.io/Portfolio-Divyansh/)
+
+This website is built using HTML and Tailwind CSS, and showcases my skills, projects, and contact details in a fully responsive design.
+
+---
+
+
 ## 📁 Folder Structure
 
 ---
