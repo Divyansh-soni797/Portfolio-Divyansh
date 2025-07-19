@@ -1,6 +1,3 @@
-<!-- Portfolio Website!! -->
-<!-- Created using HTML + Tailwind CSS -->
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,49 +9,43 @@
   <link rel="icon" href="Images/Profile.png">
 </head>
 
-<body class="font-sans text-gray-800 bg-slate-50">
+<body class="font-sans text-gray-800 bg-green-50">
 
-  <!-- Navbar -->
   <nav class="bg-white shadow fixed w-full z-10">
     <div class="container mx-auto px-6 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-extrabold tracking-wide text-indigo-700">Portfolio Website</h1>
+      <h1 class="text-2xl font-extrabold tracking-wide text-green-700">Portfolio Website</h1>
       <ul class="flex space-x-6 font-medium">
-        <li><a href="#home" class="hover:text-indigo-600">Home</a></li>
-        <li><a href="#about" class="hover:text-indigo-500">About</a></li>
-        <li><a href="#projects" class="hover:text-indigo-600">Projects</a></li>
-        <li><a href="#contact" class="hover:text-indigo-600">Contact</a></li>
+        <li><a href="#home" class="hover:text-emerald-600">Home</a></li>
+        <li><a href="#about" class="hover:text-emerald-600">About</a></li>
+        <li><a href="#projects" class="hover:text-emerald-600">Projects</a></li>
+        <li><a href="#contact" class="hover:text-emerald-600">Contact</a></li>
       </ul>
     </div>
   </nav>
 
-  <!-- Home Section -->
-   <!-- Profile picture, name, tagline, and resume download button -->
   <section id="home"
-    class="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-100 to-blue-100 pt-24">
+    class="min-h-screen flex items-center justify-center bg-gradient-to-r from-green-100 to-lime-100 pt-24">
     <div class="text-center">
-      <!-- Profile image -->
       <img src="Images/Profile.png" alt="Profile Photo" class="w-36 h-36 mx-auto rounded-full shadow-md">
-      <h2 class="text-3xl mt-6 font-bold text-blue-700">Hey, I'm Divyansh Soni</h2>
+      <h2 class="text-3xl mt-6 font-bold text-emerald-700">Hey, I'm Divyansh Soni</h2>
       <p class="text-lg mt-1">Aspiring Full-Stack Developer | Tech Explorer</p>
       <p class="text-base mt-2 text-gray-600">"Code is where creativity meets logic"</p>
       <a href="Images/resume.png" download
-        class="mt-6 inline-block bg-indigo-600 text-white px-6 py-2 rounded-lg shadow hover:bg-indigo-800 transition">Download
+        class="mt-6 inline-block bg-green-600 text-white px-6 py-2 rounded-lg shadow hover:bg-green-800 transition">Download
         Resume</a>
     </div>
-    
+
   </section>
 
-  <!-- About section -->
-   <!-- About me, skills, education & experience -->
   <section id="about" class="py-20 px-6 bg-white">
     <div class="max-w-4xl mx-auto">
-      <h2 class="text-3xl font-bold mb-8 text-center text-blue-600">About Me</h2>
+      <h2 class="text-3xl font-bold mb-8 text-center text-emerald-600">About Me</h2>
       <p class="mb-6 leading-relaxed text-justify">I'm Divyansh Soni, currently pursuing B.Tech in Internet of
         Things(IOT) at MITS Gwalior. I love building clean, responsive web apps that solve real problems. My strength
         lies in turning abstract ideas into fully functional interfaces. Besides coding, I enjoy participating in tech
         fests, exploring startups, and helping peers with frontend design.</p>
       <div class="mb-8">
-        <h3 class="text-xl font-semibold mb-3 text-indigo-600">My Core Skills:</h3>
+        <h3 class="text-xl font-semibold mb-3 text-green-600">My Core Skills:</h3>
         <ul class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-gray-700 list-disc list-inside">
           <li>HTML</li>
           <li>CSS</li>
@@ -64,7 +55,7 @@
       </div>
 
       <div>
-        <h3 class="text-xl font-semibold mb-3 text-indigo-600">Education & Projects:</h3>
+        <h3 class="text-xl font-semibold mb-3 text-green-600">Education & Projects:</h3>
         <ul class="space-y-2 text-gray-700">
           <li><strong>2024 - Present:</strong> B.Tech (IoT), MITS Gwalior</li>
           <li><strong>2025:</strong> Started my freelance web design journey</li>
@@ -74,29 +65,27 @@
     </div>
   </section>
 
-  <!-- Projects section -->
-   <!-- three projects with discription -->
-  <section id="projects" class="py-20 px-6 bg-slate-100">
+  <section id="projects" class="py-20 px-6 bg-green-50">
     <div class="max-w-6xl mx-auto">
-      <h2 class="text-3xl font-bold mb-10 text-center text-indigo-700">Featured Projects</h2>
+      <h2 class="text-3xl font-bold mb-10 text-center text-lime-700">Featured Projects</h2>
       <div class="grid md:grid-cols-3 gap-8">
         <div class="bg-white p-5 shadow-lg rounded-lg hover:scale-105 transition">
           <img src="Images/8759125.webp" class="w-6 h-6" alt="Project 1">
-          <h3 class="mt-4 font-semibold text-indigo-700">My Portfolio</h3>
+          <h3 class="mt-4 font-semibold text-green-700">My Portfolio</h3>
           <p class="text-sm text-gray-600">A clean, responsive portfolio to showcase my work and journey. Built with
             Tailwind CSS and passion.</p>
         </div>
 
         <div class="bg-white p-5 shadow-lg rounded-lg hover:scale-105 transition">
           <img src="Images/8759125.webp" class="w-6 h-6" alt="Project 2">
-          <h3 class="mt-4 font-semibold text-indigo-700">Brand Launch Site</h3>
+          <h3 class="mt-4 font-semibold text-green-700">Brand Launch Site</h3>
           <p class="text-sm text-gray-600">Designed a smooth branding page with CTA for influencers using Tailwind,
             focused on mobile-first design.</p>
         </div>
 
         <div class="bg-white p-5 shadow-lg rounded-lg hover:scale-105 transition">
           <img src="Images/8759125.webp" class="w-6 h-6" alt="Project 3">
-          <h3 class="mt-4 font-semibold text-indigo-700">Landing Page Concept</h3>
+          <h3 class="mt-4 font-semibold text-green-700">Landing Page Concept</h3>
           <p class="text-sm text-gray-600">Mockup of a startup landing page with bold design, call-to-actions and
             conversion-focused layout.</p>
         </div>
@@ -104,18 +93,17 @@
     </div>
   </section>
 
-  <!-- Contact section -->
   <section id="contact" class="py-20 px-6 bg-white">
     <div class="max-w-2xl mx-auto">
-      <h2 class="text-3xl font-bold mb-8 text-center text-indigo-700">Contact</h2>
+      <h2 class="text-3xl font-bold mb-8 text-center text-green-700">Contact</h2>
       <form class="space-y-4">
 
         <input type="text" placeholder="Your Name" class="w-full border p-3 rounded">
         <input type="email" placeholder="Your Email" class="w-full border p-3 rounded">
         <textarea rows="4" placeholder="Your Message..." class="w-full border p-3 rounded"></textarea>
         <div class="flex justify-center space-x-4">
-          <button type="submit" class="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600">Submit</button>
-          <button type="reset" class="bg-rose-500 text-white px-6 py-2 rounded hover:bg-rose-600">Clear</button>
+          <button type="submit" class="bg-green-500 text-white px-6 py-2 rounded hover:bg-green-600">Submit</button>
+          <button type="reset" class="bg-red-500 text-white px-6 py-2 rounded hover:bg-red-600">Clear</button>
         </div>
       </form>
       <div class="mt-6 flex justify-center space-x-6">
@@ -126,11 +114,7 @@
 
   </section>
 
-
-
-  <!-- Footer -->
-   <!-- Copyright -->
-  <footer class="text-center py-4 bg-slate-200 text-sm text-gray-700">
+  <footer class="text-center py-4 bg-green-100 text-sm text-gray-700">
     &copy; 2025 Divyansh Soni. My portfolio website.
   </footer>
 
