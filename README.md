@@ -24,10 +24,6 @@ HTML5 - Tailwind CSS - Font-based icons (GitHub, LinkedIn, Favicon, project imag
 
 ---
 
-## 📁 Folder Structure
-
----
-
 ## 💬 My Experience
 Working on this project helped me understand Tailwind CSS much better. I learned how utility classes work and how to structure a website without writing any custom CSS. ✨
 
